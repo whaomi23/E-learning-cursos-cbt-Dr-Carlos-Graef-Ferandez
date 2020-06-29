@@ -1,0 +1,27 @@
+div {
+    border: ipx solid black;
+    padding: 12px;
+    width: 60% margin: 0 auto;
+}
+
+fieldset {
+    margin-bottom: 12px;
+}
+
+legend {
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+p {
+    color: rgb(248, 4, 4);
+    font-size: 20px;
+    font-family: monospace;
+}
+
+li {
+    color: white;
+    font-size: 18px;
+}
